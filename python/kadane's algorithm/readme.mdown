@@ -1,0 +1,9 @@
+## dataengineerings.co.in's open-source codebase
+
+[DataEngineerings](https://dataengineerings.co.in/) is a friendly community where you can learn practical application of data engineering tools and techniques.
+
+### Kadane's Algorithms
+
+Kadane’s Algorithm is an amazing way to find the contiguous sub-array with maximum sum. This type of problem falls under Dynamic programming. So, we’re going to solve this problem using GeeksforGeeks requirement structure.
+
+This code's walkthrough is available at [Kadane's Algorithms](https://dataengineerings.co.in/kadanes-algorithm/).

@@ -1,0 +1,9 @@
+## dataengineerings.co.in's open-source codebase
+
+[DataEngineerings](https://dataengineerings.co.in/) is a friendly community where you can learn practical application of data engineering tools and techniques.
+
+### Count the triplets
+
+Given an array of distinct integers. The task is to count all the triplets such that sum of two elements equals the third element.
+
+This code's walkthrough is available at [Kadane's Algorithms](https://dataengineerings.co.in/count-the-triplets-geeksforgeeks/).
